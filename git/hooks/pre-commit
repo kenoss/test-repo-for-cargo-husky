@@ -2,4 +2,6 @@
 
 set -e
 
+echo 'Error: rejected'
+
 exit 1
